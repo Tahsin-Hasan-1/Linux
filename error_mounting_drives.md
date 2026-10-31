@@ -2,9 +2,9 @@
 
 ## Works only on debian or debian based distros.
 
-
+```bash
 sudo fdisk -l
-
+```
 sudo apt-get install nfs-common
 
 sudo apt-get install cifs-utils
